@@ -1,5 +1,9 @@
 .git
 
-/Dataset/
+*/Dataset/
+
+*/TSG/
+
+*/checkpoints/
 
 /.ipynb_checkpoints/
